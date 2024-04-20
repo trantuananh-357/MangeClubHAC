@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< HEAD
         <group/>
+=======
+        <group>
+            <file>file:/H:/Doc/JavaInClass/MangageHAC/MangeClubHAC/src/View/LoginTest.java</file>
+            <file>file:/H:/Doc/JavaInClass/MangageHAC/MangeClubHAC/src/View/HomeView.java</file>
+            <file>file:/H:/Doc/JavaInClass/MangageHAC/MangeClubHAC/src/View/Login.java</file>
+            <file>file:/H:/Doc/JavaInClass/MangageHAC/MangeClubHAC/src/View/Home.java</file>
+        </group>
+>>>>>>> 5d314dd2b540a25cb715e52f701fcb39a1d88fdf
     </open-files>
 </project-private>
